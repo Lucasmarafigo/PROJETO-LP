@@ -1,0 +1,137 @@
+* {
+    margin: 0px;
+
+    font-family: "inter";
+
+}
+
+#titulo-menu-superior {
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 45px;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+    font-size: 60px;
+    
+    
+
+}
+
+#texto-menu-superior{
+    margin-left: 100px;
+    margin-top: 0px;
+    font-size: 20px;
+    color: #FFFFFF;
+    
+}
+
+#menu-superior{
+    background-color: #303030;
+    padding-left: 0px;
+    padding-top: 120px;
+    padding-bottom: 150px;
+
+}
+
+#menu-informacional{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 60px;
+
+}
+
+.texto-informativo{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 45px;
+
+}
+
+#area-de-trabalho{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color:  #FFFFFF;
+
+    
+}
+
+.foto{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+   
+    
+}
+
+.texto{
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 10px;
+    font-size: 60x;
+    
+    
+
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 90px;
+ 
+    
+
+}
+
+#titulo-formulario{
+    margin: 50px;
+    color: #FFFFFF;
+    font-size: 30px;
+    
+   }
+
+  
+   input{
+    Width:400px;
+    Height: 50px;
+    background-color: #FFFFFF;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 20px;
+
+   }
+
+    button{
+        background-color: #C07212;
+        height: 50px;
+        Width:200px;
+        font-size: 20px;
+        color: #EAECE5;
+        border: 0px;
+        border-radius: 5px;
+        margin-bottom: 50px;
+        font-weight: bolder;
+        cursor: pointer;
+        margin-top: 50px;
+      
+    }
+
+    button:hover{
+        background-color: #8a510c;
+        color: white;
+        transform: translateY(-7px);
+        box-shadow: 0px 15px 20px #b8b5b575; 
+        transition-duration: 0.5s;
+    }
+        
+   
+
+
+
+
+
